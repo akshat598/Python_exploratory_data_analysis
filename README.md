@@ -1,5 +1,5 @@
 # Python_exploratory_data_analysis
-## Cryptocurrency Analysis in India
+## Cryptocurrency Market Analysis in India
 ### Overview
 - This project aims to analyze various cryptocurrencies in India by fetching data from the **CoinMarketCap API**.
 * The data is then cleaned and transformed using the **Pandas Python library**.
