@@ -6,8 +6,8 @@
 + Visualization of the analysis is done using **Matplotlib, NumPy, and Pandas libraries** to identify the top cryptocurrencies in India, their market share, and -- 
 - their price trends over time.
 * Technologies Used
--  **Python 3.x
--  Pandas\
--  Matplotlib\
--  NumPy\
--  CoinMarketCap API**
+  - Python 3.x
+  -  Pandas
+  -  Matplotlib
+  -  NumPy
+  -  CoinMarketCap API
