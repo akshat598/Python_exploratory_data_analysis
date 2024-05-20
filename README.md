@@ -1,6 +1,6 @@
 # Python_exploratory_data_analysis
 ## Cryptocurrency Market Analysis in India
-### Update:due to some issue in github the ipyb file is not opening please download the file to download
+### Update:due to some issue in github, the .ipyb file is not opening please download the file to view
 ### Overview
 - This project aims to analyze various cryptocurrencies in India by fetching data from the **CoinMarketCap API**.
 * The data is then cleaned and transformed using the **Pandas Python library**.
